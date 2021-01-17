@@ -1,0 +1,26 @@
+li{
+    list-style-type: none;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(146, 221, 205);
+    border-bottom: 10px solid #000000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.filter{
+    color: rgb(197, 65, 65);
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+}
+  
+body {
+    background-color:aliceblue;
+}
+
